@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rafael Thober 👋
 
-### Tenho 16 anos e estou estudando programação e também estou trabalhando como desenvolvedor web autônomo
+### Tenho 16 anos e estou estudando programação web e também estou trabalhando como desenvolvedor web autônomo
 
 ![Thober Github stats](https://github-readme-stats.vercel.app/api?username=Th0ber&show_icons=true&theme=dark)
 
